@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="immersionStatusBar" value="true" />
+    <boolean name="auto_refresh" value="true" />
+    <int name="textDrawableIndex" value="1" />
+    <boolean name="showAllFind" value="true" />
+    <int name="colorPrimaryNight" value="-12434878" />
+    <int name="colorAccent" value="-2614432" />
+    <string name="downloadPath">/storage/emulated/0/Android/data/com.gedoor.monkeybook/cache</string>
+    <string name="backupPath">/storage/emulated/0/YueDu</string>
+    <int name="threads_num" value="6" />
+    <string name="launcher_icon">ic_launcher_round</string>
+    <string name="fontPath">/storage/emulated/0/Fonts/Kindle楷体.ttf</string>
+    <int name="webPort" value="1122" />
+    <boolean name="upChangeSourceLastChapter" value="false" />
+    <int name="colorPrimary" value="-657931" />
+    <int name="colorAccentNight" value="-5434281" />
+    <string name="bookshelf_px">0</string>
+    <boolean name="navigationBarColorChange" value="false" />
+    <int name="colorBackground" value="-657931" />
+    <int name="textSize" value="21" />
+    <boolean name="behaviorMain" value="true" />
+    <int name="colorBackgroundNight" value="-12434878" />
+    <boolean name="E-InkMode" value="false" />
+    <boolean name="autoDownload" value="false" />
+    <boolean name="process_text" value="true" />
+    <boolean name="showFindLeftView" value="true" />
+    <int name="versionCode" value="15895" />
+    <boolean name="findTypeIsFlexBox" value="true" />
+    <long name="lastBackup" value="1591338531598" />
+    <boolean name="lightFollowSys" value="true" />
+    <boolean name="defaultToRead" value="false" />
+    <boolean name="replaceEnableDefault" value="true" />
+</map>
