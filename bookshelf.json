@@ -1,0 +1,27 @@
+[
+  {
+    "author": "",
+    "bookUrl": "/storage/emulated/0/Download/《妖刀记》.txt",
+    "canUpdate": true,
+    "charset": "GB2312",
+    "coverUrl": "/storage/emulated/0/Android/data/io.legado.app.release/files/covers/7aeabfbd0fd980e2.jpg",
+    "durChapterIndex": 188,
+    "durChapterPos": 0,
+    "durChapterTime": 1598022516380,
+    "durChapterTitle": "第4章(36)",
+    "group": 0,
+    "lastCheckCount": 0,
+    "lastCheckTime": 1598003650784,
+    "latestChapterTime": 1598003650784,
+    "latestChapterTitle": "第11章(50)",
+    "name": "妖刀记",
+    "order": 0,
+    "origin": "loc_book",
+    "originName": "《妖刀记》.txt",
+    "originOrder": 0,
+    "tocUrl": "",
+    "totalChapterNum": 560,
+    "type": 0,
+    "useReplaceRule": true
+  }
+]
